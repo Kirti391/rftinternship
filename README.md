@@ -1,4 +1,4 @@
-# 🚀 RFT Internship Repository
+# RFT Internship 🚀
 
 Welcome to my **RFT Internship Repository**!  
 This repository contains all the daily tasks, assignments, practice problems, and learning materials completed during the **RFT Internship Program** organized by GOW AI Academy.
@@ -25,7 +25,6 @@ The purpose of this repository is to document my learning journey, improve my te
 - MySQL
 - Git
 - GitHub
-- VS Code
 
 ---
 
@@ -65,10 +64,8 @@ This repository includes tasks and practice related to:
 - CASE Statements
 
 ## Advanced SQL
-- Joins
 - Subqueries
 - Nested Queries
-- Functions
 
 ## Tools & Workflow
 - Git Commands
@@ -85,23 +82,8 @@ RFT-Internship/
 ├── Day-1/
 ├── Day-2/
 ├── Day-3/
-├── SQL-Practice/
-├── Assignments/
-├── Notes/
 └── README.md
 ```
-
----
-
-# 📅 Daily Progress
-
-This repository is updated regularly with:
-
-- Daily internship tasks
-- SQL practice problems
-- Query solutions
-- Notes and learnings
-- Assignments and mini-projects
 
 ---
 
@@ -127,16 +109,16 @@ Special thanks to **GOW AI Academy** for providing this internship opportunity a
 # 📬 Connect With Me
 
 ## GitHub
-Add your GitHub profile link here
+https://github.com/Kirti391
 
 ## LinkedIn
-Add your LinkedIn profile link here
+https://www.linkedin.com/in/kirti2005
 
 ---
 
 # ⭐ Final Note
 
 Thank you for visiting this repository!  
-Feel free to explore the code, practice files, and learning materials.
+Feel free to explore the code and practice files.
 
 If you find this repository useful, consider giving it a ⭐.
