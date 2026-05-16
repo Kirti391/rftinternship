@@ -1,9 +1,10 @@
 # RFT Internship 🚀
 
-Welcome to my **RFT Internship Repository**!  
-This repository contains all the daily tasks, assignments, practice problems, and learning materials completed during the **RFT Internship Program** organized by GOW AI Academy.
+Welcome to my **RFT Internship Repository**!
 
-The purpose of this repository is to document my learning journey, improve my technical skills, and maintain consistency through regular practice and project work.
+This repository contains all the daily tasks, SQL practice queries, database assignments, logical challenges, GitHub activities, and mini-projects completed during the **RFT Internship Program** organized by **GOW AI Academy**.
+
+The purpose of this repository is to document my learning journey, improve problem-solving abilities, strengthen database concepts, and maintain consistency through daily hands-on practice.
 
 ---
 
@@ -16,6 +17,7 @@ The purpose of this repository is to document my learning journey, improve my te
 | Duration | 1 Month |
 | Schedule | Monday – Friday |
 | Focus Area | SQL, Databases, Git & GitHub |
+| Internship Type | Practical Learning & Daily Assignments |
 
 ---
 
@@ -23,8 +25,10 @@ The purpose of this repository is to document my learning journey, improve my te
 
 - SQL
 - MySQL
+- DBMS Concepts
 - Git
 - GitHub
+- VS Code
 
 ---
 
@@ -35,10 +39,12 @@ Throughout this internship, I aim to:
 - Strengthen SQL and database concepts
 - Practice writing optimized SQL queries
 - Improve logical and analytical thinking
+- Learn real-world database operations
 - Build consistency through daily coding tasks
 - Learn Git and GitHub workflow
 - Maintain a professional GitHub repository
-- Gain practical experience through real-world tasks
+- Gain practical experience through assignments and projects
+- Improve debugging and query optimization skills
 - Prepare for coding interviews and technical assessments
 
 ---
@@ -48,29 +54,57 @@ Throughout this internship, I aim to:
 This repository includes tasks and practice related to:
 
 ## SQL Basics
-- CREATE DATABASE / TABLE
-- INSERT, UPDATE, DELETE
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
 - SELECT Queries
+- UPDATE
+- DELETE
+
+## SQL Clauses
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- LIMIT
+
+## SQL Functions
+### Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+### String Functions
+- UPPER()
+- LOWER()
+- LENGTH()
+- CONCAT()
+- SUBSTRING()
+- REPLACE()
 
 ## Database Concepts
 - Constraints
-- Primary Key & Foreign Key
+- Primary Key
+- Foreign Key
+- NOT NULL
+- UNIQUE
+- DEFAULT
 - Normalization Basics
-
-## SQL Operations
-- Aggregate Functions
-- GROUP BY & HAVING
-- ORDER BY
-- CASE Statements
 
 ## Advanced SQL
 - Subqueries
 - Nested Queries
+- Logical Query Building
+- Query Optimization Basics
 
-## Tools & Workflow
-- Git Commands
-- GitHub Repository Management
-- Version Control
+## Git & GitHub
+- Git Initialization
+- Commit Management
+- Push & Pull Operations
+- Repository Management
+- Version Control Workflow
 
 ---
 
@@ -79,11 +113,35 @@ This repository includes tasks and practice related to:
 ```text
 RFT-Internship/
 │
-├── Day-1/
-├── Day-2/
-├── Day-3/
+├── Day-1(Employee Table).sql
+├── Day-2(Student Table).sql
+├── Day-3(Product-Table).sql
+├── Day-4(Combined Logical Queries).sql
+├── Day-5(Query Thinking Challenge).sql
+├── Day-6(Aggregate Functions).sql
+├── Day-7(Group By and Having).sql
+├── Day-8(Update and Delete Queries).sql
+├── Day-9(String Functions).sql
+├── Day-10(Query Logic Challenge).sql
 └── README.md
 ```
+
+---
+
+# 📅 Daily Progress
+
+| Day | Topics |
+|---|---|
+| Day 1 | Employee Table Creation |
+| Day 2 | Student Table Queries |
+| Day 3 | Product Table Operations |
+| Day 4 | Combined Logical Queries |
+| Day 5 | Query Thinking Challenges |
+| Day 6 | Aggregate Functions |
+| Day 7 | GROUP BY and HAVING |
+| Day 8 | UPDATE and DELETE Queries |
+| Day 9 | String Functions |
+| Day 10 | Query Logic Challenge |
 
 ---
 
@@ -93,32 +151,34 @@ By the end of this internship, I hope to:
 
 - Write efficient and optimized SQL queries
 - Understand real-world database operations
-- Improve problem-solving abilities
+- Improve debugging and query-writing skills
 - Build coding discipline and consistency
 - Create a strong technical portfolio
 - Gain confidence for technical interviews
+- Develop practical experience with SQL and databases
 
 ---
 
 # 🌟 Acknowledgement
 
-Special thanks to **GOW AI Academy** for providing this internship opportunity and helping learners improve their technical skills through practical assignments and daily challenges.
+Special thanks to **GOW AI Academy** and the mentors of the **RFT Internship Program** for providing this valuable learning opportunity and helping learners improve their technical skills through practical assignments, projects, and daily coding challenges.
 
 ---
 
 # 📬 Connect With Me
 
 ## GitHub
-https://github.com/Kirti391
+https://github.com/
 
 ## LinkedIn
-https://www.linkedin.com/in/kirti2005
+https://www.linkedin.com/in/
 
 ---
 
 # ⭐ Final Note
 
-Thank you for visiting this repository!  
-Feel free to explore the code and practice files.
+Thank you for visiting this repository!
 
-If you find this repository useful, consider giving it a ⭐.
+Feel free to explore the SQL queries, practice files, and project tasks included in this repository.
+
+If you find this repository useful or inspiring, consider giving it a ⭐ to support my learning journey.
