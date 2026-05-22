@@ -2,9 +2,9 @@
 
 Welcome to my **RFT Internship Repository**!
 
-This repository contains all the daily tasks, SQL practice queries, database assignments, logical challenges, GitHub activities, and mini-projects completed during the **RFT Internship Program** organized by **GOW AI Academy**.
+This repository contains all the daily SQL tasks, database assignments, logical query challenges, GitHub activities, and mini-projects completed during the **RFT Internship Program** organized by **GOW AI Academy**.
 
-The purpose of this repository is to document my learning journey, improve problem-solving abilities, strengthen database concepts, and maintain consistency through daily hands-on practice.
+The purpose of this repository is to document my learning journey, improve SQL and database skills, strengthen logical thinking, and maintain coding consistency through daily hands-on practice.
 
 ---
 
@@ -69,6 +69,7 @@ This repository includes tasks and practice related to:
 - LIMIT
 
 ## SQL Functions
+
 ### Aggregate Functions
 - COUNT()
 - SUM()
@@ -84,6 +85,12 @@ This repository includes tasks and practice related to:
 - SUBSTRING()
 - REPLACE()
 
+### Conditional Functions
+- CASE Statements
+- Salary Classification
+- Result Classification
+- Product Categorization
+
 ## Database Concepts
 - Constraints
 - Primary Key
@@ -91,11 +98,15 @@ This repository includes tasks and practice related to:
 - NOT NULL
 - UNIQUE
 - DEFAULT
+- CHECK Constraint
 - Normalization Basics
 
 ## Advanced SQL
 - Subqueries
 - Nested Queries
+- INNER JOIN
+- LEFT JOIN
+- GROUP BY with JOIN
 - Logical Query Building
 - Query Optimization Basics
 
@@ -123,6 +134,10 @@ RFT-Internship/
 ├── Day-8(Update and Delete Queries).sql
 ├── Day-9(String Functions).sql
 ├── Day-10(Query Logic Challenge).sql
+├── Day-11(JOIN Queries).sql
+├── Day-12(Subquery Practice).sql
+├── Day-13(Constraints Practice).sql
+├── Day-14(CASE Statements).sql
 └── README.md
 ```
 
@@ -142,6 +157,10 @@ RFT-Internship/
 | Day 8 | UPDATE and DELETE Queries |
 | Day 9 | String Functions |
 | Day 10 | Query Logic Challenge |
+| Day 11 | JOIN Queries |
+| Day 12 | Subquery Practice |
+| Day 13 | Constraints Practice |
+| Day 14 | CASE Statements |
 
 ---
 
@@ -171,7 +190,7 @@ Special thanks to **GOW AI Academy** and the mentors of the **RFT Internship Pro
 https://github.com/Kirti391
 
 ## LinkedIn
-https://www.linkedin.com/in/kirti2005/
+https://www.linkedin.com/in/Kirti2005
 
 ---
 
