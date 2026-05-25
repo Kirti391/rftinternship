@@ -161,6 +161,7 @@ RFT-Internship/
 | Day 12 | Subquery Practice |
 | Day 13 | Constraints Practice |
 | Day 14 | CASE Statements |
+| Day 15 | Real World SQL Challenge|
 
 ---
 
