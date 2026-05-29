@@ -153,8 +153,8 @@ I sincerely thank **GOW AI Academy** and the mentors of the **RFT Internship Pro
 
 ## 📬 Connect With Me
 
-- 💻 GitHub: https://github.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in  
+- 💻 GitHub: https://github.com/Kirti391  
+- 🔗 LinkedIn: https://www.linkedin.com/Kirti2005  
 
 ---
 
