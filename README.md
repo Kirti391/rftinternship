@@ -135,5 +135,98 @@ RFT-Internship/
 ├── Day-18(Indexes).sql
 ├── Day-18(Indexing-Theory).md
 ├── Day-19(Stored Procedures & Triggers).sql
+
+
+---
+
+# 📅 Daily Progress
+
+| Day | Topics |
+|-----|--------|
+| Day 1 | Employee Table Creation |
+| Day 2 | Student Table Queries |
+| Day 3 | Product Table Operations |
+| Day 4 | Combined Logical Queries |
+| Day 5 | Query Thinking Challenges |
+| Day 6 | Aggregate Functions |
+| Day 7 | GROUP BY and HAVING |
+| Day 8 | UPDATE and DELETE Queries |
+| Day 9 | String Functions |
+| Day 10 | Query Logic Challenge |
+| Day 11 | JOIN Queries |
+| Day 12 | Subquery Practice |
+| Day 13 | Constraints Practice |
+| Day 14 | CASE Statements |
+| Day 15 | Real World SQL Challenge |
+| Day 16 | Advanced Joins |
+| Day 17 | Views |
+| Day 18 | Indexes + Indexing Theory |
+| Day 19 | Stored Procedures & Triggers |
+| Day 20 | Mini Project (Student Management System) |
+
+---
+
+# 🎓 Mini Project: Student Management System
+
+## 📌 Overview
+A small relational database project built using MySQL to manage students, departments, and marks.
+
+## 📊 Features
+- Multiple table structure
+- Relationships using foreign keys
+- JOIN queries
+- Aggregate functions
+- Subqueries
+
+## 🧱 Tables Used
+- Students
+- Departments
+- Marks
+
+## 🔗 Key SQL Concepts Used
+- JOIN operations
+- GROUP BY
+- Aggregate functions (AVG, SUM, COUNT)
+- Subqueries
+
+---
+
+# 🎯 Goals of This Internship
+
+By the end of this internship, I aim to:
+
+- Write efficient and optimized SQL queries
+- Understand real-world database operations
+- Improve debugging and query-writing skills
+- Build coding discipline and consistency
+- Create a strong technical portfolio
+- Gain confidence for technical interviews
+- Develop practical experience with SQL and databases
+
+---
+
+# 🌟 Acknowledgement
+
+Special thanks to **GOW AI Academy** and mentors of the **RFT Internship Program** for providing this valuable learning opportunity and helping learners improve their technical skills through practical assignments, projects, and daily coding challenges.
+
+---
+
+# 📬 Connect With Me
+
+## GitHub
+https://github.com/Kirti391
+
+## LinkedIn
+https://www.linkedin.com/in/Kirti2005
+
+---
+
+# ⭐ Final Note
+
+Thank you for visiting this repository!
+
+Feel free to explore the SQL queries, practice files, and mini project included in this repository.
+
+If you find this repository useful or inspiring, consider giving it a ⭐ to support my learning journey.
 ├── Day-20(Mini Project).sql
 └── README.md
