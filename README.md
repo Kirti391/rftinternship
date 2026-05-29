@@ -1,232 +1,167 @@
-# 🚀 RFT Internship
+# 🚀 RFT Internship – SQL & Database Journey
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![DBMS](https://img.shields.io/badge/DBMS-Learning-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+## 👩‍💻 About This Repository
 
 Welcome to my **RFT Internship Repository**!
 
-This repository contains all the daily SQL tasks, database assignments, logical query challenges, GitHub activities, and mini-projects completed during the **RFT Internship Program** organized by **GOW AI Academy**.
+This repository documents my complete **1-month internship journey** under the **RFT Internship Program by GOW AI Academy**.
 
-The purpose of this repository is to document my learning journey, improve SQL and database skills, strengthen logical thinking, and maintain coding consistency through daily hands-on practice.
+It includes:
+- Daily SQL practice tasks
+- Database assignments
+- Logical query challenges
+- Advanced SQL concepts
+- Mini project (Student Management System)
+- Git & GitHub workflow practice
+
+The goal of this repository is to build **strong SQL fundamentals, problem-solving ability, and real-world database thinking**.
 
 ---
 
-# 📌 Internship Details
+## 🏢 Internship Details
 
-| Details | Information |
-|---|---|
-| Internship Program | RFT Internship |
+| Field | Information |
+|------|-------------|
+| Program | RFT Internship |
 | Organization | GOW AI Academy |
 | Duration | 1 Month |
-| Schedule | Monday – Friday |
-| Focus Area | SQL, Databases, Git & GitHub |
-| Internship Type | Practical Learning & Daily Assignments |
+| Type | Practical + Assignment Based |
+| Focus | SQL, DBMS, Git & GitHub |
 
 ---
 
-# 💻 Technologies & Tools Used
+## 🛠️ Tech Stack
 
-- SQL
-- MySQL
+- SQL (MySQL)
 - DBMS Concepts
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
 
 ---
 
-# 📚 Learning Objectives
+## 🎯 Key Learning Outcomes
 
-- Strengthen SQL and database concepts
-- Practice writing optimized SQL queries
-- Improve logical and analytical thinking
-- Learn real-world database operations
-- Build consistency through daily coding tasks
-- Learn Git and GitHub workflow
-- Maintain a professional GitHub repository
-- Gain practical experience through assignments and projects
-- Improve debugging and query optimization skills
-- Prepare for technical interviews
+✔ Strong SQL query writing skills  
+✔ Real-world database problem solving  
+✔ Joins, Subqueries, and Aggregations  
+✔ Stored Procedures & Triggers  
+✔ Indexing and performance basics  
+✔ Git & GitHub workflow understanding  
+✔ Structured coding discipline  
 
 ---
 
-# 🛠️ Topics Covered
+## 📚 Topics Covered
 
-## SQL Basics
-- CREATE DATABASE
-- CREATE TABLE
-- INSERT INTO
-- SELECT
-- UPDATE
-- DELETE
+### 🟢 SQL Basics
+- CREATE DATABASE / TABLE  
+- INSERT, SELECT, UPDATE, DELETE  
 
-## SQL Clauses
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- LIMIT
+### 🟡 SQL Clauses
+- WHERE, ORDER BY  
+- GROUP BY, HAVING  
+- LIMIT  
 
-## SQL Functions
+### 🔵 Functions
+- Aggregate Functions  
+- String Functions  
+- CASE Statements  
 
-### Aggregate Functions
-- COUNT()
-- SUM()
-- AVG()
-- MIN()
-- MAX()
-
-### String Functions
-- UPPER()
-- LOWER()
-- LENGTH()
-- CONCAT()
-- SUBSTRING()
-- REPLACE()
-
-### Conditional Functions
-- CASE Statements
-- Salary Classification
-- Result Classification
-- Product Categorization
-
-## Database Concepts
-- Primary Key
-- Foreign Key
-- Constraints (NOT NULL, UNIQUE, DEFAULT, CHECK)
-- Normalization Basics
-
-## Advanced SQL
-- Subqueries
-- JOINs (INNER, LEFT)
-- Views
-- Indexes
-- Stored Procedures & Triggers
+### 🟣 Advanced SQL
+- JOINs (INNER, LEFT)  
+- Subqueries  
+- Views  
+- Indexes  
+- Stored Procedures & Triggers  
 
 ---
 
-## 🔧 Git & GitHub
-- Git initialization
-- Commit & push workflow
-- Repository management
-- Version control basics
+## 📊 Daily Progress Overview
 
----
-
-# 📂 Repository Structure
-
-```text
-RFT-Internship/
-│
-├── Day-1(Employee Table).sql
-├── Day-2(Student Table).sql
-├── Day-3(Product-Table).sql
-├── Day-4(Combined Logical Queries).sql
-├── Day-5(Query Thinking Challenge).sql
-├── Day-6(Aggregate Functions).sql
-├── Day-7(Group By and Having).sql
-├── Day-8(Update and Delete Queries).sql
-├── Day-9(String Functions).sql
-├── Day-10(Query Logic Challenge).sql
-├── Day-11(JOIN Queries).sql
-├── Day-12(Subquery Practice).sql
-├── Day-13(Constraints Practice).sql
-├── Day-14(CASE Statements).sql
-├── Day-15(Real World SQL Challenge).sql
-├── Day-16(Advanced Joins).sql
-├── Day-17(Views).sql
-├── Day-18(Indexes).sql
-├── Day-18(Indexing-Theory).md
-├── Day-19(Stored Procedures & Triggers).sql
-
-
----
-
-# 📅 Daily Progress
-
-| Day | Topics |
-|-----|--------|
+| Day | Topic |
+|-----|------|
 | Day 1 | Employee Table Creation |
-| Day 2 | Student Table Queries |
-| Day 3 | Product Table Operations |
-| Day 4 | Combined Logical Queries |
-| Day 5 | Query Thinking Challenges |
+| Day 2 | Student Table Operations |
+| Day 3 | Product Table |
+| Day 4 | Logical Query Practice |
+| Day 5 | Problem Solving |
 | Day 6 | Aggregate Functions |
-| Day 7 | GROUP BY and HAVING |
-| Day 8 | UPDATE and DELETE Queries |
+| Day 7 | GROUP BY & HAVING |
+| Day 8 | UPDATE & DELETE |
 | Day 9 | String Functions |
-| Day 10 | Query Logic Challenge |
+| Day 10 | Query Challenges |
 | Day 11 | JOIN Queries |
-| Day 12 | Subquery Practice |
-| Day 13 | Constraints Practice |
+| Day 12 | Subqueries |
+| Day 13 | Constraints |
 | Day 14 | CASE Statements |
-| Day 15 | Real World SQL Challenge |
+| Day 15 | Real World SQL |
 | Day 16 | Advanced Joins |
 | Day 17 | Views |
-| Day 18 | Indexes + Indexing Theory |
-| Day 19 | Stored Procedures & Triggers |
-| Day 20 | Mini Project (Student Management System) |
+| Day 18 | Indexing |
+| Day 19 | Procedures & Triggers |
+| Day 20 | Mini Project |
 
 ---
 
-# 🎓 Mini Project: Student Management System
+## 🎓 Mini Project – Student Management System
 
-## 📌 Overview
-A small relational database project built using MySQL to manage students, departments, and marks.
+### 📌 Overview
+A complete relational database system designed using MySQL to manage students, departments, and marks.
 
-## 📊 Features
-- Multiple table structure
-- Relationships using foreign keys
-- JOIN queries
-- Aggregate functions
-- Subqueries
+### 🧱 Database Design
+- Students Table  
+- Departments Table  
+- Marks Table  
 
-## 🧱 Tables Used
-- Students
-- Departments
-- Marks
+### 🔗 Key Features
+- Relational schema design  
+- JOIN operations across tables  
+- Aggregate functions (AVG, SUM, COUNT)  
+- Subqueries for analysis  
 
-## 🔗 Key SQL Concepts Used
-- JOIN operations
-- GROUP BY
-- Aggregate functions (AVG, SUM, COUNT)
-- Subqueries
+### 💡 Skills Applied
+- Database normalization basics  
+- Query optimization thinking  
+- Real-world data modeling  
 
 ---
 
-# 🎯 Goals of This Internship
+## 🎯 Internship Goals Achieved
 
-By the end of this internship, I aim to:
-
-- Write efficient and optimized SQL queries
-- Understand real-world database operations
-- Improve debugging and query-writing skills
-- Build coding discipline and consistency
-- Create a strong technical portfolio
-- Gain confidence for technical interviews
-- Develop practical experience with SQL and databases
+- Master SQL fundamentals  
+- Build real-world query logic  
+- Understand database design  
+- Improve analytical thinking  
+- Gain hands-on DBMS experience  
+- Learn Git & GitHub workflow  
+- Build consistency in coding practice  
 
 ---
 
-# 🌟 Acknowledgement
+## 🌟 Acknowledgement
 
-Special thanks to **GOW AI Academy** and mentors of the **RFT Internship Program** for providing this valuable learning opportunity and helping learners improve their technical skills through practical assignments, projects, and daily coding challenges.
-
----
-
-# 📬 Connect With Me
-
-## GitHub
-https://github.com/Kirti391
-
-## LinkedIn
-https://www.linkedin.com/in/Kirti2005
+I sincerely thank **GOW AI Academy** and the mentors of the **RFT Internship Program** for their continuous guidance, structured learning path, and support throughout this journey.
 
 ---
 
-# ⭐ Final Note
+## 📬 Connect With Me
 
-Thank you for visiting this repository!
+- 💻 GitHub: https://github.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in  
 
-Feel free to explore the SQL queries, practice files, and mini project included in this repository.
+---
 
-If you find this repository useful or inspiring, consider giving it a ⭐ to support my learning journey.
-├── Day-20(Mini Project).sql
-└── README.md
+## ⭐ Final Note
+
+This repository represents my **learning journey, consistency, and growth in SQL & Databases**.
+
+If you like this project or find it useful, don’t forget to ⭐ star the repository.
+
+---
