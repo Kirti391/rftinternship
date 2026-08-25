@@ -2,7 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![DBMS](https://img.shields.io/badge/DBMS-Learning-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black) 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
